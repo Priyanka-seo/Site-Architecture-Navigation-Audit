@@ -54,6 +54,43 @@ Home
 
 ## Navigation Audit
 
+```
+Header Navigation
+├── Logo (Linked to Home)
+├── Primary Menu
+│   ├── Products / Services
+│   ├── About
+│   ├── Blog / Resources
+│   └── Contact
+├── CTA Button (Get Quote / Book Demo)
+
+Breadcrumb Navigation
+├── Home
+│   └── Category
+│       └── Subcategory
+│           └── Current Page
+
+Sidebar Navigation (if applicable)
+├── Related Services
+├── Categories
+└── Popular Posts
+
+Footer Navigation
+├── Quick Links
+│   ├── About
+│   ├── Services
+│   └── Blog
+├── Legal Pages
+│   ├── Privacy Policy
+│   └── Terms & Conditions
+└── Contact Information
+
+Mobile Navigation
+├── Hamburger Menu
+├── Sticky CTA
+└── Search Option
+```
+
 ### Areas to Review
 
 - Header navigation structure
