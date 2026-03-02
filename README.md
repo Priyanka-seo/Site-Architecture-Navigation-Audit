@@ -228,12 +228,13 @@ All Website Pages
 
 ## SEO Impact
 
-A well-structured site architecture:
+After implementing the recommended structural improvements:
 
-- Improves crawl efficiency
-- Enhances indexation
-- Strengthens topical authority
-- Improves user experience
-- Supports ranking growth
-
+- Website hierarchy became clearer and more organized.
+- Important pages are now accessible within fewer clicks.
+- Internal linking improved content discovery and page flow.
+- Crawlability issues were resolved by optimizing robots.txt and XML sitemap.
+- Duplicate URL variations were consolidated using proper canonical tags.
+- Mobile navigation became more intuitive and user-friendly.
+- Category pages now provide better contextual relevance.
 
