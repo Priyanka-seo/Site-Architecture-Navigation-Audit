@@ -1,21 +1,8 @@
 # Site-Architecture-Navigation-Audit
-# 🏗️ Site Architecture & Navigation Audit
+# Site Architecture & Navigation Audit
 
 A structured framework to evaluate website architecture, navigation, and internal linking for improved crawlability, user experience, and search engine rankings.
 
----
-
-## 📌 Objective
-
-The purpose of a Site Architecture & Navigation Audit is to ensure:
-
-- Proper website hierarchy
-- Optimized internal linking structure
-- Improved crawl efficiency
-- Better user experience
-- Strategic link equity distribution
-
----
 
 ## 1️⃣ Website Structure & Hierarchy
 
