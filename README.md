@@ -17,6 +17,95 @@ A structured framework to evaluate website architecture, navigation, and interna
 
 ## URL Structure Analysis
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Site Architecture Structure</title>
+<style>
+  body {
+    background: #0d1b2a;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  .container {
+    background: linear-gradient(135deg, #0a2a5e, #001f3f);
+    padding: 40px;
+    border-radius: 20px;
+    width: 500px;
+    color: white;
+  }
+
+  h2 {
+    margin-bottom: 30px;
+    font-weight: 500;
+  }
+
+  ul {
+    list-style: none;
+    padding-left: 20px;
+  }
+
+  li {
+    margin: 10px 0;
+    position: relative;
+  }
+
+  li::before {
+    content: "📁";
+    margin-right: 8px;
+  }
+
+  .sub {
+    margin-left: 20px;
+  }
+
+  .domain {
+    background: #1e40af;
+    display: inline-block;
+    padding: 8px 15px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    font-weight: bold;
+  }
+
+  .highlight {
+    color: #ffd60a;
+  }
+
+</style>
+</head>
+<body>
+
+<div class="container">
+  <h2>Your URL structure should reflect a logical organization of information:</h2>
+
+  <div class="domain">yourwebsite.com</div>
+
+  <ul>
+    <li>products/
+      <ul class="sub">
+        <li>category-1/
+          <ul class="sub">
+            <li class="highlight">product-a</li>
+            <li class="highlight">product-b</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>services/</li>
+    <li>about/</li>
+    <li>blog/</li>
+  </ul>
+</div>
+
+</body>
+</html>
+
 ### Checklist
 
 - Clean and readable URLs
