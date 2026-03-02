@@ -155,6 +155,7 @@ The second URL clearly shows what the page is about and how it fits within the w
 
 ## Crawlability & Indexation Flow
 
+```
 All Website Pages
         │
         ▼
@@ -168,6 +169,8 @@ All Website Pages
         │
         ▼
    Ranking Pages
+
+```
 
 ### Technical Checks
 
