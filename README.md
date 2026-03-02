@@ -20,22 +20,22 @@ A structured framework to evaluate website architecture, navigation, and interna
 ## URL structure should reflect a logical organization of information:
 
 Home <br/>
-├── Products
-│   ├── Category-1
-│   │   ├── Product-A
-│   │   └── Product-B
-│   └── Category-2
+├── Products <br/>
+│   ├── Category-1 <br/>
+│   │   ├── Product-A <br/>
+│   │   └── Product-B <br/>
+│   └── Category-2 <br/>
 │
-├── Services
-│   ├── Service-1
-│   └── Service-2
+├── Services <br/>
+│   ├── Service-1 <br/>
+│   └── Service-2 <br/>
 │
-├── About
-├── Contact
-└── Blog
-    ├── SEO
-    ├── Digital-Marketing
-    └── Case-Studies
+├── About <br/>
+├── Contact <br/>
+└── Blog <br/>
+    ├── SEO <br/>
+    ├── Digital-Marketing <br/>
+    └── Case-Studies <br/>
     
 ### Checklist
 
