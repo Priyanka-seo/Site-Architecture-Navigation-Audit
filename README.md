@@ -4,9 +4,9 @@
 A structured framework to evaluate website architecture, navigation, and internal linking for improved crawlability, user experience, and search engine rankings.
 
 
-## 1️⃣ Website Structure & Hierarchy
+## Website Structure & Hierarchy
 
-### ✅ What to Check
+### What to Check
 
 - Clear hierarchical structure (Home → Category → Subcategory → Page)
 - Important pages within 3 clicks from homepage
