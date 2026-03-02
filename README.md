@@ -14,13 +14,6 @@ A structured framework to evaluate website architecture, navigation, and interna
 - No orphan pages
 - Proper parent-child relationships
 
-### 🔍 Tools
-
-- Screaming Frog
-- Sitebulb
-- Ahrefs Site Audit
-
----
 
 ## 2️⃣ URL Structure Analysis
 
