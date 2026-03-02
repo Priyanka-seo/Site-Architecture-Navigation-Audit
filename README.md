@@ -1,5 +1,4 @@
 # Site-Architecture-Navigation-Audit
-# Site Architecture & Navigation Audit
 
 A structured framework to evaluate website architecture, navigation, and internal linking for improved crawlability, user experience, and search engine rankings.
 
