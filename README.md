@@ -136,7 +136,22 @@ Home
 - Avoid excessive internal linking
 - Proper deep page support
 
+# URL Structure for Better SEO
+URL structure should be clean, simple, and easy to understand. A good URL helps both users and search engines quickly know what the page is about.
 
+### Key Points to rember:
+
+- Short and clear: Keep URLs as short as possible (ideally under 60 characters).
+- Include main keywords: Add your primary keyword naturally.
+- Descriptive: The URL should clearly explain the page content.
+- Use lowercase letters: This keeps URLs consistent and avoids confusion.
+- Logical hierarchy: The URL should reflect your website structure (Category → Subcategory → Page).
+
+### For example:
+Bad URL: www.example.com/p=123?id=456&category=789
+Good URL: www.example.com/outdoor-furniture/patio-sets/wicker-5-piece
+
+The second URL clearly shows what the page is about and how it fits within the website structure. This makes it easier for users to understand and helps search engines properly index and rank the page.
 
 ## Crawlability & Indexation Flow
 
