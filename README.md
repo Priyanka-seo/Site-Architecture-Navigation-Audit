@@ -196,14 +196,21 @@ All Website Pages
 - Easy search functionality
 
 
-## Common Issues Found
+## Common Issues Found (Site Architecture & Navigation Audit)
 
-- Orphan pages
-- Deep click depth (4+ levels)
-- Duplicate category URLs
-- Thin category pages
-- Improper breadcrumb setup
-- Poor anchor text usage
+- Orphan pages (no internal links pointing to them)
+- Deep click depth (important pages 4+ clicks away)
+- Broken internal links
+- Poor URL structure (long, messy, parameter-based URLs)
+- Duplicate category or tag pages
+- Duplicate Content
+- Missing or incorrect breadcrumb setup
+- Weak internal linking strategy
+- Overloaded navigation menu
+- Thin category pages with little content
+- Mobile navigation issues
+- Important pages blocked by robots.txt
+- Incorrect canonical implementation
 
 
 
