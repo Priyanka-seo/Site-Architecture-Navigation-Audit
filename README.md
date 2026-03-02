@@ -155,6 +155,20 @@ The second URL clearly shows what the page is about and how it fits within the w
 
 ## Crawlability & Indexation Flow
 
+All Website Pages
+        │
+        ▼
+   Crawlable Pages
+        │
+        ▼
+   Indexable Pages
+        │
+        ▼
+   Indexed Pages
+        │
+        ▼
+   Ranking Pages
+
 ### Technical Checks
 
 - XML sitemap structure
