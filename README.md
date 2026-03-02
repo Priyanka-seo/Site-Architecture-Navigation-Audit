@@ -19,7 +19,7 @@ A structured framework to evaluate website architecture, navigation, and interna
 
 ## URL structure should reflect a logical organization of information:
 
-Home
+Home <br/>
 ├── Products
 │   ├── Category-1
 │   │   ├── Product-A
