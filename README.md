@@ -149,7 +149,7 @@ URL structure should be clean, simple, and easy to understand. A good URL helps 
 
 ### For example:
 Bad URL: www.example.com/p=123?id=456&category=789 <br>
-Good URL: www.example.com/outdoor-furniture/patio-sets/wicker-5-piece
+Good URL: www.example.com/courses/Data-science-course-in-pune/
 
 The second URL clearly shows what the page is about and how it fits within the website structure. This makes it easier for users to understand and helps search engines properly index and rank the page.
 
